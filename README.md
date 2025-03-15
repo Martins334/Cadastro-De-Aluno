@@ -26,7 +26,9 @@ Este repositório serve como base para estudos e aprimoramento em programação 
 📂 Para executar o projeto:
 
 gcc main.c aluno.c -o sistema_alunos
+
 ./sistema_alunos  # Linux/macOS
+
 sistema_alunos.exe  # Windows
 
 💬 Qualquer sugestão ou melhoria é bem-vinda!
